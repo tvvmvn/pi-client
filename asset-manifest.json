@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/pi-client/static/css/main.31d6cfe0.css",
-    "main.js": "/pi-client/static/js/main.8c4b5a8c.js",
+    "main.js": "/pi-client/static/js/main.b4669b7a.js",
     "static/js/787.da53c0a4.chunk.js": "/pi-client/static/js/787.da53c0a4.chunk.js",
     "index.html": "/pi-client/index.html",
-    "main.8c4b5a8c.js.map": "/pi-client/static/js/main.8c4b5a8c.js.map",
+    "main.b4669b7a.js.map": "/pi-client/static/js/main.b4669b7a.js.map",
     "787.da53c0a4.chunk.js.map": "/pi-client/static/js/787.da53c0a4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.8c4b5a8c.js"
+    "static/js/main.b4669b7a.js"
   ]
 }
